@@ -1,2 +1,3 @@
 name: Ash Whiting
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
